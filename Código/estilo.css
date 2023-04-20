@@ -1,0 +1,18 @@
+#cor {
+    color: #090;
+}
+
+#area {
+    background: orange;
+    border: 2px solid green;
+    color: white;
+}
+
+#foto {
+    height: 100px;
+}
+
+.destaqueFoto {
+    border: 2px solid red;
+    opacity: 0.8;
+}
