@@ -1,0 +1,14 @@
+#conteudo {
+    margin: auto;
+    width: 80%;
+    border: 1px solid #ddd;
+}
+
+#chat {
+    width: 500px;
+    height: 300px;
+    overflow-y: auto;
+    background-color: #eee;
+    border: 1px solid #ddd;
+}
+
